@@ -1,2 +1,0 @@
-# DesafioBase2MobileAndroid
-# teste
