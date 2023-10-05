@@ -59,7 +59,7 @@ Este é um projeto de framework de teste de Mobile altamente eficiente, desenvol
 
 ### Pré-requisitos
 ### Hardware:
-- Processador: Intel Core i7-7700HQ ou AMD Ryzen 5600G
+- Processador: Intel Core i7-7700HQ
 - Memória RAM: 16 GB
 - Armazenamento: 20GB de espaço livre
 - Conectividade: Acesso à Internet estável
