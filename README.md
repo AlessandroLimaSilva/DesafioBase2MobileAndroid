@@ -101,26 +101,6 @@ Este é um projeto de framework de teste de Mobile altamente eficiente, desenvol
 #### [site oficial do Appium Inspector](https://github.com/appium/appium-inspector).
 </details>
 
-#### Xcode ide:
-<details>
-  <summary>Como instalar o xcode</summary>
-
-#### [site oficial do developer apple](https://developer.apple.com/documentation/xcode).
-</details>
-
-#### Instalar o emulador do iphone :
-<details>
-  <summary>Como instalar o modo desenvolverdor iphone</summary>
-
-#### [site oficial do developer apple](https://developer.apple.com/documentation/xcode/installing-additional-simulator-runtimes).
-</details>
-
-#### Modo desenvolvedor habilitado dispositivo iphone :
-<details>
-  <summary>Como instalar o modo desenvolverdor iphone</summary>
-
-#### [site oficial do developer apple](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device).
-</details>
 
 #### Usuario root no Ubuntu
 
