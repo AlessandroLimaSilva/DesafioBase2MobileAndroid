@@ -117,9 +117,6 @@ phases:
   post_test:
     commands:
 
-# The artifacts phase lets you specify the location where your tests logs, device logs will be stored.
-# And also let you specify the location of your test logs and artifacts which you want to be collected by Device Farm.
-# These logs and artifacts will be available through ListArtifacts API in Device Farm.
 artifacts:
   # By default, Device Farm will collect your artifacts from following directories
   - $DEVICEFARM_LOG_DIR

@@ -13,11 +13,11 @@ echo Iniciando Contrucao da estrutura de dados
 mkdir temp
 xcopy /s target\dependency-jars temp\
 xcopy /s target\*.jar* temp\
-mkdir temp\QAPortalClienteAPPSerenity
-mkdir temp\QAPortalClienteAPPSerenity\src
-xcopy /s src temp\QAPortalClienteAPPSerenity\src
-xcopy pom.xml temp\QAPortalClienteAPPSerenity
-xcopy serenity.properties temp\QAPortalClienteAPPSerenity
+mkdir temp\DesafioBase2MobileAndroid
+mkdir temp\DesafioBase2MobileAndroid\src
+xcopy /s src temp\DesafioBase2MobileAndroid\src
+xcopy pom.xml temp\DesafioBase2MobileAndroid
+xcopy serenity.properties temp\DesafioBase2MobileAndroid
 cd temp
 powershell -Command "Compress-Archive -Path * -DestinationPath test_package.zip"
 copy test_package.zip ..\target
